@@ -2,6 +2,7 @@
 Java Application to keep track of customers. purchases, purchase collections.
 
 This application contains the following:
+
 BUSINESS LAYER: Contains class information, constructors, member variables. (Customer, Address, Product, Purchase, PurchaseCollection).
 
 PRESENTATION LAYER: Contains sample input files, in both .TXT and .JSON format. 
