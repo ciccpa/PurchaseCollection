@@ -1,5 +1,5 @@
 # PurchaseCollection
-Java Application to keep track of customers. purchases, purchase collections.
+Java Application to keep track of customers, purchases, purchase collections.
 
 This application contains the following:
 
