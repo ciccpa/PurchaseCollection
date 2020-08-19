@@ -16,7 +16,6 @@ purchases by index, get the maximum purchase, display a purchase collection repo
 
 3. PurchasesGraphicalGUI - Brings up a graphical user interface that will let the user open a file via File Explorer, save as, 
 or save the file to a report.
-![Screenshot (18)](https://user-images.githubusercontent.com/50625576/89063348-0263a180-d336-11ea-9d5f-77bea5430063.png)
 
 
 In order to run this project you will need to download the PRESENTATION and BUSINESS folders, respectively. 
