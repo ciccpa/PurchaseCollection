@@ -1,20 +1,3 @@
-/* 
- * GetMaxPurchase. Incorrect. Does not return the correct purchase. 
- * This method should declare a max purchase instance before the loop (set it to the 0 element). 
- * Inside the loop just check the current element cost against the max instance cost (cost is quantity * price). 
- * If the current element is higher then set that one to be the max instance. 
- * After the loop just return max instance. You do not need a nested loop for this algorithm.
-
-Write. Should write out the number of purchases to the output file just before writing the purchase data. 
-The file that is created with this method will not be usable as input to the Read method.
-
-ShowUI Option 5. The call to getByIndex should be inside of a try/catch block. 
-That try/catch block should have a catch for ArrayIndexOutOfBoundsException.
-
-Note: ShowUI. There is no need to create multiple instance of Scanner to System.in. You can just call new for one Scanner connected to System.in at the top of ShowUI and use that for all keyboard input. Did not take off points for this.
- * 
- */
-
 /** 
  * Contains a class to display user interfaces.
  */
