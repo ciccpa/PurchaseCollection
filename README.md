@@ -41,6 +41,6 @@ In order to run this project you will need to download both the PRESENTATION and
 #### Once a valid PurchaseCollection file is chosen, fills the window with customer's data.
 ![screenshot2](https://user-images.githubusercontent.com/50625576/90799087-c1313280-e2e0-11ea-8f52-e857ff5a4e46.jpg)
 
-### Purchases.
+### Purchases
 #### A separate tab can be chosen to view that customer's purchase collection info.
 ![screenshot1](https://user-images.githubusercontent.com/50625576/90798962-9e9f1980-e2e0-11ea-94de-e51946dadee4.jpg)
